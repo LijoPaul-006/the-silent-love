@@ -1,0 +1,21 @@
+{
+  "name": "the-silent-love",
+  "version": "1.0.0",
+  "description": "Immersive digital reading experience for The Silent Love by Lijo Paul M E.",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve -l 3000 .",
+    "start": "npx serve -l 3000 .",
+    "preview": "npx serve -l 3000 ."
+  },
+  "author": "Lijo Paul M E",
+  "keywords": [
+    "romance-novel",
+    "the-silent-love",
+    "book-reader",
+    "pdf-js",
+    "digital-edition",
+    "lijo-paul-m-e"
+  ]
+}

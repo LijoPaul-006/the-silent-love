@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Build & Cache Outputs
+dist/
+build/
+.next/
+.cache/
+*.log
+
+# OS & IDE Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment Files
+.env
+.env.local
+.env.*.local
