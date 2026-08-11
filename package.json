@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "npx serve -l 3000 .",
     "start": "npx serve -l 3000 .",
-    "build": "mkdir -p dist && cp -r index.html css js the_silent_love.pdf dist 2>/dev/null || true",
+    "build": "rm -rf dist && mkdir -p dist && cp -r index.html css js the_silent_love.pdf dist/",
     "preview": "npx serve -l 3000 dist"
   },
   "author": "Lijo Paul M E",
